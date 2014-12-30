@@ -1,0 +1,10 @@
+# dotfiles
+.*
+# excluding this document
+!.gitignore
+# compiled python files
+*.py[co]
+# setup.py egg_info
+*.egg-info
+# emacs backup files
+*~
