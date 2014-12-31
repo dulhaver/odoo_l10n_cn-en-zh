@@ -9,3 +9,4 @@ these translations are google translation, so they are not beautifull but hopefu
 so far (2014-12-30) only acount_chart_small_business_template.xml is translated. The "big one" ist still pending
 
 original repo is htttp://github.com/OCA/OCB [8.0]
+no code has been added removed or altered from that original repo
